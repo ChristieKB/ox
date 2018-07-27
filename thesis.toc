@@ -1,0 +1,48 @@
+\contentsline {section}{\numberline {1}Introduction}{2}{section.1}
+\contentsline {subsection}{\numberline {1.1}DYRK1A, green tea and down-syndrome}{2}{subsection.1.1}
+\contentsline {subsubsection}{\numberline {1.1.1}DYRK1A and apoptosis}{3}{subsubsection.1.1.1}
+\contentsline {subsubsection}{\numberline {1.1.2}DYRK1A and the cell cycle}{3}{subsubsection.1.1.2}
+\contentsline {subsubsection}{\numberline {1.1.3}DYRK1A and differentiation}{3}{subsubsection.1.1.3}
+\contentsline {subsubsection}{\numberline {1.1.4}DYRK1A and cancer: an ambiguous bond}{3}{subsubsection.1.1.4}
+\contentsline {subsubsection}{\numberline {1.1.5}Radiation and DYRK1A}{3}{subsubsection.1.1.5}
+\contentsline {subsection}{\numberline {1.2}Culture methods}{3}{subsection.1.2}
+\contentsline {subsubsection}{\numberline {1.2.1}2D and 3D}{3}{subsubsection.1.2.1}
+\contentsline {subsubsection}{\numberline {1.2.2}Perfusion models}{3}{subsubsection.1.2.2}
+\contentsline {subsection}{\numberline {1.3}Aims and Objectives}{3}{subsection.1.3}
+\contentsline {section}{\numberline {2}Materials and methods}{3}{section.2}
+\contentsline {subsection}{\numberline {2.1}Cell lines and culture conditions}{3}{subsection.2.1}
+\contentsline {subsubsection}{\numberline {2.1.1}ReNcell VM cell line}{3}{subsubsection.2.1.1}
+\contentsline {subsubsection}{\numberline {2.1.2}SH-SY5Y cell line}{4}{subsubsection.2.1.2}
+\contentsline {subsection}{\numberline {2.2}DYRK1A Inhibitors}{4}{subsection.2.2}
+\contentsline {subsection}{\numberline {2.3}Transient siRNA knockdown of DYRK1A}{5}{subsection.2.3}
+\contentsline {subsubsection}{\numberline {2.3.1}Electroporation}{5}{subsubsection.2.3.1}
+\contentsline {subsubsection}{\numberline {2.3.2}Lipid transfection}{5}{subsubsection.2.3.2}
+\contentsline {subsection}{\numberline {2.4}Cell viability assay}{5}{subsection.2.4}
+\contentsline {subsection}{\numberline {2.5}Immunofluorescence}{5}{subsection.2.5}
+\contentsline {subsection}{\numberline {2.6}Western blot}{6}{subsection.2.6}
+\contentsline {subsubsection}{\numberline {2.6.1}BCA assay}{6}{subsubsection.2.6.1}
+\contentsline {subsubsection}{\numberline {2.6.2}Bradford assay}{6}{subsubsection.2.6.2}
+\contentsline {subsubsection}{\numberline {2.6.3}Running the gel}{6}{subsubsection.2.6.3}
+\contentsline {subsection}{\numberline {2.7}Bioreactor simulation}{7}{subsection.2.7}
+\contentsline {subsection}{\numberline {2.8}Casting bioreactor}{7}{subsection.2.8}
+\contentsline {subsection}{\numberline {2.9}Radiation}{8}{subsection.2.9}
+\contentsline {subsubsection}{\numberline {2.9.1}Dosimetry}{8}{subsubsection.2.9.1}
+\contentsline {subsubsection}{\numberline {2.9.2}Protocol?}{8}{subsubsection.2.9.2}
+\contentsline {subsection}{\numberline {2.10}Oxdidative stress assay}{8}{subsection.2.10}
+\contentsline {subsubsection}{\numberline {2.10.1}Microscopy}{8}{subsubsection.2.10.1}
+\contentsline {subsubsection}{\numberline {2.10.2}Flow Cytometry}{8}{subsubsection.2.10.2}
+\contentsline {subsection}{\numberline {2.11}Statistical analysis}{8}{subsection.2.11}
+\contentsline {section}{\numberline {3}Results}{9}{section.3}
+\contentsline {subsection}{\numberline {3.1}Characterisation of the SY5Y and ReNcell VM cell lines}{9}{subsection.3.1}
+\contentsline {subsubsection}{\numberline {3.1.1}The ReNcell VM cell line}{9}{subsubsection.3.1.1}
+\contentsline {subsubsection}{\numberline {3.1.2}The SY5Y cell line}{12}{subsubsection.3.1.2}
+\contentsline {subsection}{\numberline {3.2}Drug inhibition}{12}{subsection.3.2}
+\contentsline {subsubsection}{\numberline {3.2.1}DYRK1A inhibition and transient knockout}{12}{subsubsection.3.2.1}
+\contentsline {subsection}{\numberline {3.3}DYRK1A knockdown in traditional cell culture}{13}{subsection.3.3}
+\contentsline {subsection}{\numberline {3.4}Engineering and biology}{13}{subsection.3.4}
+\contentsline {section}{\numberline {4}Discussion}{13}{section.4}
+\contentsline {subsection}{\numberline {4.1}Cell characterisation}{13}{subsection.4.1}
+\contentsline {subsection}{\numberline {4.2}DYRK1A inhibitors in traditional cell culture}{13}{subsection.4.2}
+\contentsline {subsection}{\numberline {4.3}Engineering and biology}{13}{subsection.4.3}
+\contentsline {subsection}{\numberline {4.4}Conclusion and outlook}{13}{subsection.4.4}
+\contentsline {section}{\numberline {5}Conclusion}{13}{section.5}

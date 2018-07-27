@@ -1,0 +1,14 @@
+This is BibTeX, Version 0.99dThe top-level auxiliary file: thesis.aux
+I couldn't open style file unsrt_custom.bst.bst
+---line 82 of file thesis.aux
+ : \bibstyle{unsrt_custom.bst
+ :                           }
+I'm skipping whatever remains of this command
+I couldn't open database file thesis.bib.bib
+---line 83 of file thesis.aux
+ : \bibdata{thesis.bib
+ :                    }
+I'm skipping whatever remains of this command
+I found no database files---while reading file thesis.aux
+I found no style file---while reading file thesis.aux
+(There were 4 error messages)
